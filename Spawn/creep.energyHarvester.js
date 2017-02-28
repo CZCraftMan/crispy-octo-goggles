@@ -1,4 +1,4 @@
-var roleHarvester = {
+var energyHarvester = {
 
     /** @param {Creep} creep **/
     run: function(creep) {
